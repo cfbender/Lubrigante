@@ -2,7 +2,7 @@
 
 _A TGR Alice Acrylic Case Revision By Zambumon with addition of Ergosaurus support by cfbender (waxpoetik)_
 
-### This repo is a fork of the original Lubrigante repo, intended to add support for the Ergosaurus PCB made by /u/reggatronics. It uses an extra spacing layer and a modified plate for the layout.
+### This repo is a fork of the original Lubrigante repo, intended to add support for the Ergosaurus PCB made by /u/reggatronics. It uses an extra spacing layer and a modified plate for the layout. Please read the available layouts section for details.
 
 ### CHECK THE ISSUES TAB BEFORE MAKING THIS CASE
 
@@ -31,7 +31,10 @@ You can find Yuktsi's original case files [here](https://geekhack.org/index.php?
   - **Half plate**
   - ~~**Full plate**~~ _reworking_
 
-- **ERGOSAURUS**: flexible layout. ANSI Caps lock or Stepped caps lock, 2.00U space bar next to a 1.25U modifier, split or standard backspace.
+- **ERGOSAURUS- Angled**: flexible layout. ANSI Caps lock or Stepped caps lock, 2.00U space bar next to a 1.25U modifier OR 2.25u space bar next to a 1u modifier, split or standard backspace.
+  - **Half plate**
+  - 
+- **ERGOSAURUS- Flat front**: flexible layout. ANSI Caps lock or Stepped caps lock, 2.00U space bar next to a 1.25U modifier, split or standard backspace.
   - **Half plate**
   
 ---
