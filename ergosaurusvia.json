@@ -1,7 +1,7 @@
 {
     "name": "ergosaurus",
     "vendorId": "0x434B",
-    "productId": "0x4E59",
+    "productId": "0xE590",
     "lighting": {
       "extends": "none",
       "effects": [
